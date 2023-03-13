@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50fe5d94-3096-424c-bb46-8935ce96e3ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/untitled/src/Carrito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/Producto.java" afterDir="false" />
-    </list>
+    <list default="true" id="50fe5d94-3096-424c-bb46-8935ce96e3ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "/home/dev/IdeaProjects/JavaArgPro/carrito",
+    "last_opened_file_path": "/home/dev/IdeaProjects/JavaArgPro",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
