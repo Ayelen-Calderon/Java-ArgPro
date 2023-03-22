@@ -12,9 +12,7 @@ public class Main {
         carrito1.agregarProductos(producto1);
         carrito1.agregarProductos(producto2);
         carrito1.agregarProductos(producto3);
-
-
-
+        
         System.out.println(carrito1);
         System.out.println(carrito1.calcularPrecio());
 
