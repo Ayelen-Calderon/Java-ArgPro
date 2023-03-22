@@ -5,14 +5,33 @@ public class DescuentoCarrito implements Descuento{
 
     @Override
     public double descuentoOtro( double monto , double descuento) {
-        return 0;
+        double des = 0;
+        try {
+            des = monto*descuento/100;
+
+        }catch (ArithmeticException exception){
+            System.err.println("se intento dividir con cero");
+        }
+        return monto - des;
     }
     public double descuentoJubilados(double monto){
-       double des = monto*15/100;
-       return monto - des;
+        double des = 0;
+        try {
+             des = monto*15/100;
+
+        }catch (ArithmeticException exception){
+            System.err.println("se intento dividir con cero");
+        }
+        return monto - des;
     };
      public double descuentoPromo(double monto){
-         double des = monto*10/100;
+         double des = 0;
+         try {
+             des = monto*10/100;
+
+         }catch (ArithmeticException exception){
+             System.err.println("se intento dividir con cero");
+         }
          return monto - des;
      }
 

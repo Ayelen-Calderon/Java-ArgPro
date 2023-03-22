@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50fe5d94-3096-424c-bb46-8935ce96e3ef" name="Changes" comment="semana 6 tareaArgPro">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/Descuento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/DescuentoCarrito.java" afterDir="false" />
+    <list default="true" id="50fe5d94-3096-424c-bb46-8935ce96e3ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Carrito.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Carrito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled/src/Carrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/Carrito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/DescuentoCarrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/DescuentoCarrito.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../semana5/semana5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../semana5/semana5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../semana5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../semana5/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +61,21 @@
       <option name="presentableId" value="Default" />
       <updated>1678726951822</updated>
     </task>
+    <task id="LOCAL-00001" summary="semana 6 tareaArgPro">
+      <created>1679502182749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679502182749</updated>
+    </task>
+    <task id="LOCAL-00002" summary="semana 6 tareaArgPro">
+      <created>1679502254000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679502254000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
