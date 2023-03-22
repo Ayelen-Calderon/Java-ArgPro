@@ -13,10 +13,11 @@ public class Main {
         carrito1.agregarProductos(producto2);
         carrito1.agregarProductos(producto3);
 
-        carrito1.calcularPrecio();
+
 
         System.out.println(carrito1);
         System.out.println(carrito1.calcularPrecio());
+
 
 
 

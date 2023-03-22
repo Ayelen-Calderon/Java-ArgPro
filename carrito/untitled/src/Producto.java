@@ -5,8 +5,8 @@ public class Producto {
     private double precioUnitario;
 
 
-    public Producto(String nombrePtroducto, double precioUnitario) {
-        this.nombreProducto = nombrePtroducto;
+    public Producto(String nombreProducto, double precioUnitario) {
+        this.nombreProducto = nombreProducto;
         this.precioUnitario = precioUnitario;
     }
 
